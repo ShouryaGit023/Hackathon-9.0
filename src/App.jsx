@@ -1,7 +1,7 @@
 import './App.css';
-import Intro from './components/Intro';
-import Translator from './components/Translator';
-import Footer from './components/Footer';
+import Intro from './components/Intro.jsx';
+import Translator from './components/Translator.jsx';
+import Footer from './components/Footer.jsx';
 
 function App() {
   return (
